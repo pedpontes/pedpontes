@@ -6,7 +6,7 @@
 - Back-end 👨‍💻
 - Computer Engineer ⚙️
 - Eletronics 
-- Suporte e manutenção a informática
+- IT support and maintenance
 
 ### Languages:
 
