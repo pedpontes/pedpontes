@@ -1,7 +1,7 @@
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedpontes&show_icons=true&theme=dark)
-
 ## Hi, my name is Pedro Pontes! 👋
 ### Wellcome to my profile! 🔥
+
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedpontes&show_icons=true&theme=dark)
 
 - Back-end 👨‍💻
 - Computer Engeneer ⚙️
