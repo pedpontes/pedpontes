@@ -1,12 +1,12 @@
 ## Hi, my name is Pedro Pontes! 👋
 ### Wellcome to my profile! 🔥
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedpontes&theme=blue-green)
-
 - Back-end 👨‍💻
 - Computer Engineer ⚙️
 - Eletronics 
 - Network infrastructure
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedpontes&theme=blue-green)
 
 ### Languages:
 
